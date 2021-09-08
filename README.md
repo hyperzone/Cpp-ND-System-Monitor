@@ -1,7 +1,7 @@
 # CppND-System-Monitor
 
 In this repo I put my solution to the second project of my Nano Degree Path.
-Feel free to ger this code, study reuse and improve!
+Feel free to get this code, study reuse and improve!
 
 ![System Monitor](images/monitor.png)
 
